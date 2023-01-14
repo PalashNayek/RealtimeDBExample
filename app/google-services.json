@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377436836280",
+    "project_id": "myfirebaseproject-b3b53",
+    "storage_bucket": "myfirebaseproject-b3b53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377436836280:android:f5961b6d6b5e0779833f4d",
+        "android_client_info": {
+          "package_name": "com.palash.realtimedbexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdjCnMfqALVJXbkPL5nb9I8caaenu4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
